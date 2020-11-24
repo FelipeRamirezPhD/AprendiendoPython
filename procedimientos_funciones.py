@@ -75,4 +75,7 @@ def main():
 # Si quitamos este comentario, el procedimiento main actúa como entry point
 # es decir, es un procedimiento que manda a llamar a todos los procedimientos
 # del programa.
+# Recuerda que Python es muy posicional, y el orden en que se codifican las 
+# cosas es importante: no puede mandar llamar un procedimiento o función que
+# no se haya declarado antes en el programa.
 # main()
